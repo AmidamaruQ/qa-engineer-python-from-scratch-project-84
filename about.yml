@@ -1,0 +1,12 @@
+---
+name: Gorobec Sema
+job: SDET
+level: Senior
+email: example@example.com
+description: |
+  I have no idea
+skills:
+  - Linux
+  - OpenQA
+  - Python
+  - Allure
